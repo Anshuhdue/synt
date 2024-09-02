@@ -10,7 +10,7 @@ Hosting: Vercel.
 Run Locally
 Clone the project
 
-  git clone https://github.com/victorcodess/propellent
+
 Go to the project directory
 
   cd propellent
